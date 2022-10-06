@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdice_game_vue"]=self["webpackChunkdice_game_vue"]||[]).push([[443],{7381:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var a=u(3396);const t={class:"about"},c=(0,a._)("h1",null,"This is an about page",-1),r=[c];function s(e,n){return(0,a.wg)(),(0,a.iD)("div",t,r)}var i=u(89);const o={},d=(0,i.Z)(o,[["render",s]]);var f=d}}]);
-//# sourceMappingURL=about.e7cd4241.js.map
